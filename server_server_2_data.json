@@ -1,0 +1,37 @@
+{
+  "clave_0": {
+    "value": "valor_0_desde_cliente",
+    "timestamp": "2025-09-22T18:22:46.653402",
+    "server_id": "server_2"
+  },
+  "clave_3": {
+    "value": "valor_3_desde_cliente",
+    "timestamp": "2025-09-22T18:22:49.669705",
+    "server_id": "server_2"
+  },
+  "clave_2": {
+    "value": "valor_2_desde_cliente",
+    "timestamp": "2025-09-22T18:22:48.663587",
+    "server_id": "server_1"
+  },
+  "clave_1": {
+    "value": "valor_1_desde_cliente",
+    "timestamp": "2025-09-22T18:22:47.657297",
+    "server_id": "server_3"
+  },
+  "clave_4": {
+    "value": "valor_4_desde_cliente",
+    "timestamp": "2025-09-22T18:22:50.676203",
+    "server_id": "server_3"
+  },
+  "ciudad": {
+    "value": "Madrid",
+    "timestamp": "2025-09-22T18:24:14.623073",
+    "server_id": "server_3"
+  },
+  "producto": {
+    "value": "Laptop",
+    "timestamp": "2025-09-22T18:24:56.508251",
+    "server_id": "server_2"
+  }
+}
